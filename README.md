@@ -13,7 +13,8 @@
 
 ---
 <div align = center>
-<h3> 🛠 Platforms & Languages </h3>
+
+<h3> 📚 Platforms & Languages </h3>
 <p>
 <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White"/></a>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/></a>
@@ -33,7 +34,7 @@
 <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </p>
 
-<h3> DevOps </h3>
+<h3> 🔧 DevOps </h3>
 <p>
 <img src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/></a>
