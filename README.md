@@ -1,4 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=250&section=header&text=Sihyeon%20Bae&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn)
+
+</div>
 
 ##  👋 Welcome my github profile !
 ### Contact & Channels
