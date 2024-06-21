@@ -8,7 +8,7 @@
 ### Contact & Channels
 - Email | qotlgus123@naver.com
 - Blog | https://Sicoree.github.io
-- PortFolio | ![PortFolio Link](https://kindhearted-moonstone-180.notion.site/BAE-SI-HYEON-12585de6a90f4da59a2c944d9355dfae?pvs=4)
+- PortFolio | [PortFolio Link](https://kindhearted-moonstone-180.notion.site/BAE-SI-HYEON-12585de6a90f4da59a2c944d9355dfae?pvs=4)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSicoree&count_bg=%23C687D0&title_bg=%238035D8&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
